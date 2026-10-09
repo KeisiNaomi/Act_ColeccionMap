@@ -43,4 +43,4 @@ Se utilizó inteligencia artificial como herramineta de apoyo para comprender lo
 
 ## Enlace de la presentación
 
-Para una mayor información sobre el tema, puede consultar el siguiente material: [https://github.com/KeisiNaomi/Act_ColeccionMap.git](https://github.com/KeisiNaomi/Act_ColeccionMap.git)
+Para una mayor información sobre el tema, puede consultar el siguiente material: [https://canva.link/xwamz1xpbd7krkd](https://canva.link/xwamz1xpbd7krkd)
